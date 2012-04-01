@@ -1,7 +1,7 @@
 base   chiplink
 author Jonas Berg
 email  jonas.s.berg@home.se
-date   2012-03-27
+date   2012-03-28 
 name   chiplink plugin
 desc   Provides automatic links to HTML reports on your server, by searching the wikitext.
 url    http://www.dokuwiki.org/plugin:chiplink

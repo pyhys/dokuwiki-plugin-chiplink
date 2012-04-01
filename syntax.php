@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin chiplink: Provides automatic links to HTML reports on your server, by searching the wikitext.
+ * Plugin chiplink: Provides automatic links to HTML reports on your server, by searching the wikitext.  
  *
  *  Thanks to Gregg Berkholtz for the rtlink plugin, on which this plugin is based.
  *
